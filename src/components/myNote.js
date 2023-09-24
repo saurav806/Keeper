@@ -18,18 +18,7 @@ const myNote = [
         id : 4,
         title : "Note 4",
         desc : "Decs 4"
-    },
-    {
-        id : 4,
-        title : "Note 4",
-        desc : "Decs 4"
-    },
-    {
-        id :5,
-        title: "shubh",
-        desc: "kuch nhi"
     }
-
 ];
 
 export default myNote;
